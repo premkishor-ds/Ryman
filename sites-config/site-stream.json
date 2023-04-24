@@ -1,0 +1,37 @@
+{
+  "$id": "site-entity",
+  "filter": {
+    "entityIds": ["global-data"]
+  },
+  "source": "knowledgeGraph",
+  "fields": [
+      "name",
+      "c_canonical" ,
+      "c_meta_title",
+      "c_meta_description",
+      "c_locatorBannerImage",
+      "c_locatorTitleH1",
+      "c_locator_description",
+      "c_matalan_header_logo",
+      "c_header_links",
+      "c_footerDescription",
+      "c_customer_services",
+      "c_about_matalan",
+      "c_our_website",
+      "c_socialIcons",
+      "c_appSectionText",
+      "c_app_icon",
+      "c_matalan_footer_logo",
+      "c_fAQs",
+      "c_store_finder",
+      "richTextDescription",
+      "c_courservice",
+      "c_heading",
+      "c_top_header_links",
+      "c_offersection"
+  ],
+  "localization": {
+    "locales": ["en_GB"],
+    "primary": false
+  }
+}
